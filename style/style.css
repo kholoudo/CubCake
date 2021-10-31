@@ -1,0 +1,32 @@
+
+span.welcome{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+
+img{
+    width: 2em;
+    height:2em;
+    margin: 0.5em;
+}
+.navbar-brand{
+
+    font-weight: bold;
+    background-color: pink;
+    
+}
+select {
+    width:100%;
+}
+
+#btn1{
+background-color:rgb(92, 92, 240);
+    margin: 0.5em;
+}
+
+
+#Cname, #count, #type1 {
+
+    width: 100%;
+}
